@@ -83,21 +83,16 @@ proguard/
 *.jar
 *.war
 
-# Google APIs #
-.google_apis/
-
 # gwt caches and compiled units #
 war/gwt_bree/
 gwt-unitCache/
-*.cache.html
-*.gwt.rpc
 
 # boilerplate generated classes #
 .apt_generated/
 
 # more caches and things from deploy #
-deploy/
-classes/
+war/WEB-INF/deploy/
+war/WEB-INF/classes/
 
 #compilation logs
 .gwt/
