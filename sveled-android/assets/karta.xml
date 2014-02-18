@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="CloudMade" version="1.1" xmlns="http://www.topografix.com/GPX/1/1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<metadata>
+		<author>
+			<name>CloudMade</name>
+			<email id="support" domain="cloudmade.com" />
+			<link href="http://maps.cloudmade.com"></link>
+		</author>
+		<copyright author="CloudMade">
+			<license>http://cloudmade.com/faq#license</license>
+		</copyright>
+		<time>2011-12-05T14:18:47</time>
+	</metadata>
+	<extensions>
+		<distance>7856</distance>
+		<time>1418</time>
+		<start>O519</start>
+		<end>Unknown road near Partille</end>
+	</extensions>
+	<wpt lat="57.732864" lon="12.007212" />
+	<wpt lat="57.732868" lon="12.007227" />
+	<wpt lat="57.732887" lon="12.007288" />
+	<wpt lat="57.732922" lon="12.007327" />
+	<wpt lat="57.732948" lon="12.007337" />
+	<wpt lat="57.732979" lon="12.007327" />
+	<wpt lat="57.733013" lon="12.007289" />
+	<wpt lat="57.733032" lon="12.007241" />
+	<wpt lat="57.73304" lon="12.00717" />
+	<wpt lat="57.73304" lon="12.007142" />
+	<wpt lat="57.733772" lon="12.006724" />
+	<wpt lat="57.735146" lon="12.006224" />
+	<wpt lat="57.73613" lon="12.005938" />
+	<wpt lat="57.737209" lon="12.005651" />
+	<wpt lat="57.737759" lon="12.00564" />
+	<wpt lat="57.739368" lon="12.005926" />
+	<wpt lat="57.740463" lon="12.006265" />
+	<wpt lat="57.741455" lon="12.006756" />
+	<wpt lat="57.741791" lon="12.006784" />
+	<wpt lat="57.741768" lon="12.006951" />
+	<wpt lat="57.742424" lon="12.007099" />
+	<wpt lat="57.743252" lon="12.007314" />
+	<wpt lat="57.744179" lon="12.007625" />
+	<wpt lat="57.745087" lon="12.008097" />
+	<wpt lat="57.745422" lon="12.008333" />
+	<wpt lat="57.746532" lon="12.009094" />
+	<wpt lat="57.747143" lon="12.009588" />
+	<wpt lat="57.747505" lon="12.009792" />
+	<wpt lat="57.748489" lon="12.010253" />
+	<wpt lat="57.748913" lon="12.010457" />
+	<wpt lat="57.749634" lon="12.01079" />
+	<wpt lat="57.750538" lon="12.011187" />
+	<wpt lat="57.750904" lon="12.011262" />
+	<wpt lat="57.752052" lon="12.011358" />
+	<wpt lat="57.753059" lon="12.011326" />
+	<wpt lat="57.753819" lon="12.011283" />
+	<wpt lat="57.755703" lon="12.011068" />
+	<wpt lat="57.75729" lon="12.010736" />
+	<wpt lat="57.75861" lon="12.010629" />
+	<wpt lat="57.758976" lon="12.010694" />
+	<wpt lat="57.759537" lon="12.010951" />
+	<wpt lat="57.760036" lon="12.01124" />
+	<wpt lat="57.76038" lon="12.011369" />
+	<wpt lat="57.760689" lon="12.011391" />
+	<wpt lat="57.760883" lon="12.011348" />
+	<wpt lat="57.761929" lon="12.010811" />
+	<wpt lat="57.762447" lon="12.012083" />
+	<wpt lat="57.762569" lon="12.012993" />
+	<wpt lat="57.763214" lon="12.014485" />
+	<wpt lat="57.763206" lon="12.014569" />
+	<wpt lat="57.763123" lon="12.014801" />
+	<wpt lat="57.763084" lon="12.015176" />
+	<wpt lat="57.76408" lon="12.017447" />
+	<wpt lat="57.764771" lon="12.019233" />
+	<wpt lat="57.765213" lon="12.021343" />
+	<wpt lat="57.765373" lon="12.023284" />
+	<wpt lat="57.765743" lon="12.026244" />
+	<wpt lat="57.766094" lon="12.028055" />
+	<wpt lat="57.766689" lon="12.030141" />
+	<wpt lat="57.767632" lon="12.032733" />
+	<wpt lat="57.767841" lon="12.033763" />
+	<wpt lat="57.768051" lon="12.034819" />
+	<wpt lat="57.768578" lon="12.03663" />
+	<wpt lat="57.768875" lon="12.037678" />
+	<wpt lat="57.769531" lon="12.039874" />
+	<wpt lat="57.769733" lon="12.042561" />
+	<wpt lat="57.769825" lon="12.04499" />
+	<wpt lat="57.770035" lon="12.046123" />
+	<wpt lat="57.770435" lon="12.047288" />
+	<wpt lat="57.770702" lon="12.048071" />
+	<wpt lat="57.771427" lon="12.050159" />
+	<wpt lat="57.772324" lon="12.050568" />
+	<wpt lat="57.772499" lon="12.050417" />
+	<wpt lat="57.772537" lon="12.050398" />
+	<wpt lat="57.772629" lon="12.051089" />
+	<wpt lat="57.772701" lon="12.051476" />
+	<wpt lat="57.772804" lon="12.051841" />
+	<wpt lat="57.773125" lon="12.052967" />
+	<wpt lat="57.773571" lon="12.05433" />
+	<wpt lat="57.773796" lon="12.055059" />
+	<wpt lat="57.773918" lon="12.055274" />
+	<wpt lat="57.774036" lon="12.055552" />
+	<wpt lat="57.774097" lon="12.055842" />
+	<wpt lat="57.774281" lon="12.056261" />
+	<wpt lat="57.774487" lon="12.056851" />
+	<wpt lat="57.774727" lon="12.057902" />
+	<wpt lat="57.774895" lon="12.058728" />
+	<wpt lat="57.775272" lon="12.060263" />
+	<wpt lat="57.775658" lon="12.061604" />
+	<wpt lat="57.77602" lon="12.062945" />
+	<wpt lat="57.776531" lon="12.064898" />
+	<wpt lat="57.776588" lon="12.06508" />
+	<wpt lat="57.776672" lon="12.065005" />
+	<wpt lat="57.776875" lon="12.064834" />
+	<wpt lat="57.777008" lon="12.064694" />
+	<wpt lat="57.777317" lon="12.066188" />
+	<wpt lat="57.777588" lon="12.067441" />
+	<wpt lat="57.777714" lon="12.067784" />
+	<wpt lat="57.777847" lon="12.067956" />
+	<wpt lat="57.77813" lon="12.068188" />
+	<wpt lat="57.778484" lon="12.068394" />
+	<wpt lat="57.778931" lon="12.068497" />
+	<wpt lat="57.780186" lon="12.068574" />
+	<wpt lat="57.781536" lon="12.068686" />
+	<wpt lat="57.782398" lon="12.068761" />
+	<rte>
+		<rtept lat="57.732864" lon="12.007212">
+			<desc>At the roundabout, take the 2nd exit onto O519, 30 m</desc>
+			<extensions>
+				<distance>30</distance>
+				<time>5</time>
+				<offset>0</offset>
+				<distance-text>30 m</distance-text>
+				<direction>NE</direction>
+				<azimuth>60.7</azimuth>
+				<turn>EXIT2</turn>
+				<turn-angle>0.0</turn-angle>
+			</extensions>
+		</rtept>
+		<rtept lat="57.73304" lon="12.007142">
+			<desc>Slight right at O519/Gamlestadsvägen, 1.0 km</desc>
+			<extensions>
+				<distance>990</distance>
+				<time>178</time>
+				<offset>9</offset>
+				<distance-text>1.0 km</distance-text>
+				<direction>N</direction>
+				<azimuth>343.0</azimuth>
+				<turn>TSLR</turn>
+				<turn-angle>41.4</turn-angle>
+			</extensions>
+		</rtept>
+		<rtept lat="57.741791" lon="12.006784">
+			<desc>Turn right, 10 m</desc>
+			<extensions>
+				<distance>10</distance>
+				<time>4</time>
+				<offset>18</offset>
+				<distance-text>10 m</distance-text>
+				<direction>E</direction>
+				<azimuth>104.4</azimuth>
+				<turn>TR</turn>
+				<turn-angle>101.8</turn-angle>
+			</extensions>
+		</rtept>
+		<rtept lat="57.741768" lon="12.006951">
+			<desc>Turn left, 2.3 km</desc>
+			<extensions>
+				<distance>2293</distance>
+				<time>413</time>
+				<offset>19</offset>
+				<distance-text>2.3 km</distance-text>
+				<direction>N</direction>
+				<azimuth>6.9</azimuth>
+				<turn>TL</turn>
+				<turn-angle>262.5</turn-angle>
+			</extensions>
+		</rtept>
+		<rtept lat="57.761929" lon="12.010811">
+			<desc>Turn right, 2.6 km</desc>
+			<extensions>
+				<distance>2649</distance>
+				<time>477</time>
+				<offset>45</offset>
+				<distance-text>2.6 km</distance-text>
+				<direction>NE</direction>
+				<azimuth>52.7</azimuth>
+				<turn>TR</turn>
+				<turn-angle>68.0</turn-angle>
+			</extensions>
+		</rtept>
+		<rtept lat="57.771427" lon="12.050159">
+			<desc>Slight left, 0.1 km</desc>
+			<extensions>
+				<distance>129</distance>
+				<time>23</time>
+				<offset>70</offset>
+				<distance-text>0.1 km</distance-text>
+				<direction>N</direction>
+				<azimuth>13.7</azimuth>
+				<turn>TSLL</turn>
+				<turn-angle>316.6</turn-angle>
+			</extensions>
+		</rtept>
+		<rtept lat="57.772537" lon="12.050398">
+			<desc>Turn right, 1.8 km</desc>
+			<extensions>
+				<distance>1796</distance>
+				<time>323</time>
+				<offset>73</offset>
+				<distance-text>1.8 km</distance-text>
+				<direction>E</direction>
+				<azimuth>76.1</azimuth>
+				<turn>TR</turn>
+				<turn-angle>99.1</turn-angle>
+			</extensions>
+		</rtept>
+	</rte>
+</gpx>
